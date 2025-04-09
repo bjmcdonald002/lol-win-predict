@@ -47,4 +47,4 @@ The dataset used in this project is publicly available on Kaggle:
 
 ## 📄 Related Materials
 
-This project is featured in a forthcoming research article. Reach out for collaboration or access to full pipeline files.
+This project is featured in a forthcoming research article.
