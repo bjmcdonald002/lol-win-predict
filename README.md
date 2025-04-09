@@ -10,7 +10,7 @@ We trained and compared multiple models to predict whether a match resulted in a
 - **LightGBM**
 - **L1-regularized Logistic Regression**
 - **Neural Network (MLPClassifier)**
-- **Principal Component Logistic Regression (with and without robust PCA)**
+- **Principal Component Logistic Regression (with robust PCA)**
 
 Each model was evaluated using:
 - Accuracy, F1 Score, ROC AUC
