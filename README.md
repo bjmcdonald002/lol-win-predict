@@ -30,7 +30,7 @@ The dataset used in this project is publicly available on Kaggle:
 - Validated results with **statistical rigor**
 - Cleaned and scaled gameplay data from over 21,000 ranked matches
 
-## 📁 Files (to be added)
+## 📁 Files
 
 - `binary_class_models.ipynb` — Exploratory modeling and comparison
 - `PCLR_league_data.ipynb` — Manual robust PCA implementation with Logistic Regression
