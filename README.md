@@ -33,7 +33,7 @@ The dataset used in this project is publicly available on Kaggle:
 ## 📁 Files (to be added)
 
 - `binary_class_models.ipynb` — Exploratory modeling and comparison
-- `PCLR_league_data.py` — Manual robust PCA implementation with Logistic Regression
+- `PCLR_league_data.ipynb` — Manual robust PCA implementation with Logistic Regression
 
 ## 💡 Key Result
 
