@@ -34,6 +34,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 - `binary_class_models.ipynb` — Exploratory modeling and comparison
 - `PCLR_league_data.ipynb` — Manual robust PCA implementation with Logistic Regression
+- `binary_class_neural_network_league_data.ipynb` - Multi-Layer Neural Network implementing a grid search which started this project
 
 ## 💡 Key Result
 
