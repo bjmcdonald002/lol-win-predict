@@ -4,7 +4,7 @@ This project explores binary classification of match outcomes in *League of Lege
 
 ## 📊 Project Overview
 
-We trained and compared multiple models to predict whether a match resulted in a win or loss based on numeric stat lines. Techniques included:
+I've trained and compared multiple models to predict whether a match resulted in a win or loss based on numeric stat lines. Techniques included:
 
 - **XGBoost**
 - **LightGBM**
@@ -34,7 +34,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 - `binary_class_models.ipynb` — Exploratory modeling and comparison
 - `PCLR_league_data.ipynb` — Manual robust PCA implementation with Logistic Regression
-- `binary_class_neural_network_league_data.ipynb` - Multi-Layer Neural Network implementing a grid search which started this project
+- `binary_class_neural_network_league_data.ipynb` - Multi-Layer Neural Network implementing a grid search, different feature set than other projects
 
 ## 💡 Key Result
 
