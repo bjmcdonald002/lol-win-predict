@@ -49,3 +49,11 @@ The dataset used in this project is publicly available on Kaggle:
 ## 📄 Related Materials
 
 This project is featured in a forthcoming research article.
+
+## 👽 Author
+
+*Prepared by Barrett James McDonald | PhD Student | University of South Florida*
+
+---
+
+If you have any questions or feedback, feel free to contact me or open an issue. 💬
