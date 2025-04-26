@@ -50,4 +50,4 @@ Findings will appear in a forthcoming research article.
 
 ---
 
-Questions or feedback? Feel free to reach out or open an issue. 💬
+Questions or feedback? Feel free to reach out or open an issue.
