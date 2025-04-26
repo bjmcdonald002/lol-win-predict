@@ -40,7 +40,7 @@ Publicly available on Kaggle:
 > **LightGBM** achieved the highest ROC AUC (~0.966), edging out **XGBoost** (~0.965).  
 
 ## 🛠 Tools Used
-Python (NumPy, pandas, scikit-learn, XGBoost, LightGBM) · TensorFlow/Keras (for MLP) · Matplotlib
+Python (NumPy, pandas, scikit-learn, XGBoost, LightGBM) · TensorFlow/Keras (for MLP) · Matplotlib · Seaborn
 
 ## 📄 Related Materials
 Findings will appear in a forthcoming research article.
