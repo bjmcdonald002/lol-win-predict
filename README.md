@@ -26,7 +26,7 @@ Publicly available on Kaggle:
 ## 🔍 Methods & Features
 
 - Cleaned and scaled gameplay data from **21 K+** ranked matches
-- Ensemble methods capture non-linear interactions
+- Ensemble methods peform best, likely due to capturing non-linear interactions
 - Rigorous validation (k-fold CV + shuffle tests)
 
 ## 📁 Files
