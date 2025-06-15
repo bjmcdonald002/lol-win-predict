@@ -45,7 +45,7 @@ Python (NumPy, pandas, scikit-learn, XGBoost, LightGBM) · TensorFlow/Keras (for
 ## 📄 Related Materials
 Findings will appear in a forthcoming research article.
 
-## 👽 Author
+## Author
 *Barrett James McDonald — Ph.D. Student, University of South Florida*
 
 ---
