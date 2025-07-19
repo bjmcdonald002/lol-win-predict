@@ -31,9 +31,9 @@ Publicly available on Kaggle:
 
 ## 📁 Files
 
-- `binary_class_models_comparison.ipynb` — Comparison of several binary classification models
+- `binary_class_models_comparison.ipynb` - Comparison of several binary classification models
 - `PCLR_league_data.ipynb` - Manual robust PCA implementation with Logistic Regression for exploratory modeling and comparison
-- `binary_class_neural_network_league_data.ipynb` — MLP with grid search on an alternative feature set for exploratory modeling and comparison
+- `binary_class_neural_network_league_data.ipynb` - MLP with grid search on an alternative feature set for exploratory modeling and comparison
 
 ## 💡 Key Result
 
